@@ -7,7 +7,7 @@
 ## 使用说明
 
 
-**1. 点击项目右上角进行fork,然后点击你项目中的Setting,找到Secrets添加一个环境变量。
+**1. 点击项目右上角进行fork,然后点击你项目中的Setting,找到``Secrets and variables``添加一个``Repository secrets``。
 <br/>Name : `ACCOUNTS` 
 <br/>Value : `username1,password1|username2,password2....`**
 
@@ -15,13 +15,13 @@
 ***
 ***
 
- ![image](https://github.com/FirmianaMarsili/picacomic-Punch/blob/main/asset/1.png)
+ ![image](/asset/1.png)
 
 
 ***
 ***
 
- ![image](https://github.com/FirmianaMarsili/picacomic-Punch/blob/main/asset/2.png)
+ ![image](/asset/2.png)
 
 ***
 ***
@@ -41,7 +41,7 @@
 ***
 ***
 
- ![image](https://github.com/FirmianaMarsili/picacomic-Punch/blob/main/asset/3.png)
+ ![image](/asset/3.png)
 
 ***
 ***
@@ -55,7 +55,7 @@
 ***
 ***
 
- ![image](https://github.com/FirmianaMarsili/picacomic-Punch/blob/main/asset/4.png)
+ ![image](/asset/4.png)
 
 ***
 ***
@@ -67,17 +67,17 @@
 ***
 ***
 
- ![image](https://github.com/FirmianaMarsili/picacomic-Punch/blob/main/asset/5.png)
+ ![image](/asset/5.png)
 
 ***
 ***
 
- ![image](https://github.com/FirmianaMarsili/picacomic-Punch/blob/main/asset/6.png)
+ ![image](/asset/6.png)
  
 ***
 ***
 
- ![image](https://github.com/FirmianaMarsili/picacomic-Punch/blob/main/asset/7.png)
+ ![image](/asset/7.png)
  
  ***
  ***
