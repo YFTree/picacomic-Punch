@@ -61,8 +61,7 @@ namespace picacomic
             Header.SetAuthorization(login.Authorization);
             Log("开始获取人物信息");
             Profile profile = await PicacomicUrl.Profile();
-            Log($"昵称：{profile.User.Name}");
-            Log("开始签到");
+            Log($"第 {index + 1} 个账号开始签到)";
             Punch punch = await PicacomicUrl.Punch(); 
             if (punch.PunchSuccess)
             {
